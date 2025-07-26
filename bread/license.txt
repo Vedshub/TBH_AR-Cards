@@ -1,0 +1,8 @@
+Model Information:
+* title:	A regular loaf of white bread
+* source:	https://sketchfab.com/3d-models/a-regular-loaf-of-white-bread-4bf9fe3ec2004d608e74108f63977fae
+* author:	Ranvanov (https://sketchfab.com/Leonid.Soloviev)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

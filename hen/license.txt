@@ -1,0 +1,8 @@
+Model Information:
+* title:	Brown Chicken
+* source:	https://sketchfab.com/3d-models/brown-chicken-dde1dc19b4824f64ad41735b626c815c
+* author:	amir.saeed.anas (https://sketchfab.com/amir.saeed.anas)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
